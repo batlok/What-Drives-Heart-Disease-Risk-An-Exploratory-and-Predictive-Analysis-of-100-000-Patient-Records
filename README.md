@@ -2,7 +2,9 @@
 
 # What Drives Heart Disease Risk?
 
-An exploratory and predictive analysis of 100,000 synthetic patient records, developed as a Python Bootcamp project at KEDGE Business School.
+We completed this group project as part of the Python Bootcamp at KEDGE Business School. Our team analyzed 100,000 synthetic patient records to explore how heart disease labels vary across age, smoking and physical activity groups.
+
+We also built a logistic regression model using age, resting blood pressure and lifestyle variables, then evaluated its predictions on 20,000 held-out records.
 
 The project asks two questions. How does the proportion of records labeled with heart disease vary across age, smoking and physical activity groups? How accurately can a logistic regression classify heart disease status using age, resting blood pressure and lifestyle variables?
 
